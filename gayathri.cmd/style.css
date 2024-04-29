@@ -1,0 +1,55 @@
+.logo > img
+{
+    height: 120px;
+    margin-left: 10px;
+}
+    .title
+    {
+        margin-left: 160px;
+        margin-top: -140px;
+    }
+    .menu 
+    {
+        margin-left:120px;
+    }
+    .menu > ul
+    {
+    list-style-type: none;
+    }
+    .menu > ul > a > li
+
+    {
+        display: inline;
+        margin-right: 100px;
+    }
+    .address
+    {
+        margin-left: 160px
+    }
+    .footer 
+    {
+        text-align: center;
+        
+    }
+    .course>table
+    {
+        width: 700px;
+        height: 200px;
+        background-color: aquamarine;
+        border:solid;
+
+    }
+    td
+    {
+        border: solid;
+        border-color: green;
+        background-color: blue;
+    }
+    .image > img
+    {
+        height: 200px;
+    }
+    a{
+        text-decoration: none;
+        background-color: antiquewhite;
+    }
